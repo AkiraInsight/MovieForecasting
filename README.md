@@ -1,4 +1,6 @@
-# 🎬 Movie Forecasting - Prédiction du Succès des Films 🚀  
+# 🎬 Movie Forecasting - Prédiction du Succès des Films 🚀 
+
+Lien Streamlit : https://daprojectmovieforecasting-d5ajcxwg3gfe65zmsjne8c.streamlit.app/
 
 
 ## 📌 Introduction  
